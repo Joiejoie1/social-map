@@ -1,2 +1,1 @@
-# social-map
-A real-time, privacy-focused social map for local communities.
+# Social Map Monorepo
